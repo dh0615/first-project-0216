@@ -1,0 +1,12 @@
+@font-face {
+  font-family: Playfair;
+  src: url("./font/PlayfairDisplay-Regular.ttf");
+}
+@font-face {
+  font-family: Roboto;
+  src: url("./font/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: NotosansKR;
+  src: url("./font/RobotoSlab-Regular.ttf");
+}
